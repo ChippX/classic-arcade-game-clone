@@ -1,6 +1,6 @@
 # Udacity Classic Arcade Game
 
-This is a project from Udacity's Nanodegree program "Front-End Web Developer". The project consists on a game based on the arcade game **Frogger** by **Konami** (more information [here](https://en.wikipedia.org/wiki/Frogger)).
+The project consists on a game based on the arcade game **Frogger** by **Konami** (more information [here](https://en.wikipedia.org/wiki/Frogger)).
 
 ## Run Game
 
